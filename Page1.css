@@ -1,0 +1,51 @@
+#tof{
+    display: block;
+    margin: 100px auto;
+    width: 140px;
+    height: 200px;
+}
+.img1{
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    width: 130;
+    height: 130px;
+}
+.img2{
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    width: 130px;
+    height: 130px;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    margin-top: -5px;
+    text-decoration:none;
+    font-style:normal;
+}
+h2{
+    text-align: center;
+    font-size: 20px ;
+    margin-top: -5px
+
+}
+.point{
+    text-align: center;
+    margin-top: -5px
+
+}
+ 
+.para{
+    text-align: justify;
+    line-height: normal;
+}
+#moi{
+    text-align: right;
+
+}
+body{
+    background-image: url(Image/img7.jpg);
+    color: #1b0d1b;
+}
